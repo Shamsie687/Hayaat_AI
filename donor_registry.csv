@@ -1,0 +1,9 @@
+donor_id,name,blood_type,city,area,phone,status,Total Impact Score,Lifesaver Level Badge
+1,Ali Khan,O+,Karachi,Clifton,0300-1234567,Available,150,🥇 Hero
+2,Sara Ahmed,A+,Karachi,DHA Phase 6,0311-7654321,Unavailable,45,🥉 Bronze
+3,Omar Raza,B-,Karachi,Gulshan-e-Iqbal,0322-1112233,Available,300,💎 Legend
+4,Fatima Noor,AB+,Karachi,Nazimabad,0333-9998877,Available,120,🥈 Silver
+5,Bilal Tariq,O-,Karachi,Malir,0344-5556666,Unavailable,10,🌱 Novice
+6,Ayesha Zain,B+,Karachi,Saddar,0301-4445555,Available,220,🥇 Hero
+8,arsalan,A+,Karachi,nazimabad,03303249876,Available,0,🌟 Verified Responder
+10,Shamsie,A+,Karachi,DHA Phase 6,03001234567,Available,0,🌟 Verified Responder
